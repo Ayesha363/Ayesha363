@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there 👋
 
-<!--
 
-**Ayesha363/Ayesha363** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
+
+
+``` I am Ayesha Siddiqa. I am interested in Web Development and DataBase management. I have knowledge of python, data science and java
 
 - 🔭 I’m currently working on Web Development and Database Management 
 
@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Database Management 
 
 - 📫 How to reach me on siddiqaayyesha59@gmail.com 
+```
 
 
 
