@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 
-``` I am Ayesha Siddiqa. I am interested in Web Development and DataBase management. I have knowledge of python, data science and java
+``` I am Ayesha Siddiqa. I am interested in Web Development and DataBase management. I have knowledge of python, data science and java. ```
 
 - 🔭 I’m currently working on Web Development and Database Management 
 
